@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://gun123:gunsinghal@devconnector.ek6zclk.mongodb.net/?retryWrites=true&w=majority&appName=DevConnector",
+    "jwtSecret" : "mysecrettoken",
+    "githubClientId" : "Ov23lim5HyAFgFulHa4A",
+    "githubSecret" : "6a83240c805493208351775a59c559133487e81c"
+}
